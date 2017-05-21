@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoffeeWork</string>
+    <string name="title_activity_maps_user">Map</string>
+    <string name="title_activity_maps_driver">Map</string>
+</resources>

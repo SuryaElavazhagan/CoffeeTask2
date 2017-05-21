@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "918401020061",
+    "firebase_url": "https://coffeework-4ce7a.firebaseio.com",
+    "project_id": "coffeework-4ce7a",
+    "storage_bucket": "coffeework-4ce7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918401020061:android:c528941e1c555484",
+        "android_client_info": {
+          "package_name": "com.example.surya.coffeework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918401020061-r2t7057p99rrc7aelqa6uhe7q04vqkhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.surya.coffeework",
+            "certificate_hash": "c8e07b79879ccba034eb9c629fe8626acd96429e"
+          }
+        },
+        {
+          "client_id": "918401020061-l0o3p3lv2400f8mv2ioss9nkujc3kv48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZKyETn4AJVIkJpnMhzffj8dbfLzltbng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918401020061-l0o3p3lv2400f8mv2ioss9nkujc3kv48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
